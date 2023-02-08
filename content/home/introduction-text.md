@@ -7,7 +7,7 @@ title: Valeria Lab at UGR
 subtitle: Virtual reAlity Lab for sciEntific and industRIal fAcilities
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     text_color_light: false
     image_darken: 0
