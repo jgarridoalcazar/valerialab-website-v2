@@ -3,7 +3,7 @@ widget: markdown
 widget_id: Introduction-text
 headless: true
 weight: 10
-title: Valeria Lab at UGR
+title: Valeria Lab
 subtitle: Virtual reAlity Lab for sciEntific and industRIal fAcilities
 active: true
 design:
