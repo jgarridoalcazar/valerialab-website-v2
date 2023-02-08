@@ -6,7 +6,7 @@ weight: 10
 title: Valeria Lab at UGR
 subtitle: Virtual reAlity Lab for sciEntific and industRIal fAcilities
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
 hero_media: welcome.jpg
